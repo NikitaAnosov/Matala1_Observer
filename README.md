@@ -22,7 +22,7 @@ Create an Admin:  <br />
 Create an Admin's member:  <br />
 ```
   ConcreteMember "member_name" = new ConcreteMember("admin_name");
-  // ...     (does not matter the number of memners)
+  // ...     (does not matter the number of members)
 ```
 Send messages to Admin's member:  <br />
 ```
